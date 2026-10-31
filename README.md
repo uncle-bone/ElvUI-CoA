@@ -1,6 +1,6 @@
 # ElvUI-CoA — Interface Replacement for Conquest Reborn
 
-> **[⬇ Download v1.0.1](https://github.com/downingwow/ElvUI-CoA/releases/download/v1.0.1/ElvUI-CoA-v1.0.1.zip)**
+> **[⬇ Download v1.0.1](https://github.com/uncle-bone/ElvUI-CoA/releases/download/v1.0.1/ElvUI-CoA-v1.0.1.zip)**
 
 
 ElvUI-CoA packages a legacy ElvUI interface for Ascension Conquest of Azeroth / Conquest Reborn. Based on the supplied ElvUI 7.28 package, it provides configurable action bars, unit frames, nameplates, bags, chat, tooltips, auras, data displays, maps and interface skins.
@@ -18,7 +18,7 @@ ElvUI-CoA packages a legacy ElvUI interface for Ascension Conquest of Azeroth / 
 
 ## Installation and configuration
 
-Download **v1.0.1** from [Releases](https://github.com/downingwow/ElvUI-CoA/releases) and copy all six folders directly into `Interface/AddOns`, keeping their names unchanged. Back up existing addon folders and WTF settings before replacing them. Open configuration with `/ec` or `/elvui`; `/moveui` opens frame movement.
+Download **v1.0.1** from [Releases](https://github.com/uncle-bone/ElvUI-CoA/releases) and copy all six folders directly into `Interface/AddOns`, keeping their names unchanged. Back up existing addon folders and WTF settings before replacing them. Open configuration with `/ec` or `/elvui`; `/moveui` opens frame movement.
 
 All six components report **1.0.1-CoA**. Upstream authors and versions are retained in metadata. The core preserves the upstream 7.28 profile-migration schema and existing SavedVariables rather than rerunning old migrations.
 
@@ -32,4 +32,4 @@ Original contributors include **Elv, Bunny, Paddy, Azilroka, Sortokk**, and thos
 
 Target: Ascension Conquest of Azeroth / Conquest Reborn, legacy WoW 3.3.5a (Interface 30300). Source and package checks do not establish live realm compatibility. Report the addon version, UI addons, and full Lua error when filing an issue. Preserve your WTF SavedVariables when updating.
 
-Maintainer: **Uncle Bone** · [GitHub support](https://github.com/downingwow). This is a community-maintained adaptation. Original authors retain their credits; bundled license and third-party attribution notices remain applicable.
+Maintainer: **Uncle Bone** · [GitHub support](https://github.com/uncle-bone). This is a community-maintained adaptation. Original authors retain their credits; bundled license and third-party attribution notices remain applicable.
